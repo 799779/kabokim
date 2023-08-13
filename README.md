@@ -3,5 +3,5 @@
 </p>
 <p align='center'>
 <img src="https://i.imgur.com/w6mgM1c.gif" width="30" height="30">
-</br><sup>look, I planted crops there.</sup>
+</br><sup>growth: 678℅</sup>
 </p>
